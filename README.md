@@ -1,2 +1,2 @@
 # Games
-The repository has some game playing agents
+I shall be updating this repository with some popular game playing agents.
